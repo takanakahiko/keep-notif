@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/takanakahiko/keep-notif/issues"
   },
-  "homepage": "https://github.com/takanakahiko/keep-notif#readme"
+  "homepage": "https://github.com/takanakahiko/keep-notif#readme",
+  "dependencies": {
+    "@octokit/rest": "^17.6.0"
+  }
 }
