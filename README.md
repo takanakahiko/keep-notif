@@ -19,3 +19,9 @@ $ export ORG_NAME=XXXXXXX
 $ export GITHUB_PERSONAL_ACCESS_TOKEN=XXXXXXXXXXXXXXXXXXXXXXXXX
 $ node index.js
 ```
+
+## あの
+
+あとから教えてもらったんですが、新しくORGに入る前にコイツラをOFFにすれば通知こないみたいです。チャンチャン。
+
+![img](真中らぁら.png)
