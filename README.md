@@ -1,9 +1,17 @@
 # keep-notif
 
-Organization に入ったときにすべてのリポジトリの通知が来るようになって通知欄がすごいことになって困ったひとが使うやつ。
+> Organization に入ったときにすべてのリポジトリの通知が来るようになって通知欄がすごいことになって困ったひとが使うやつ。
 
-その Organization のすべてのリポジトリを UnWatch します。
-適当に制限を作りたかったらフィルターの部分をいじってください。
+- UnWatch all repositories in that Organization.
+- If you want to make an appropriate restriction, change around `ret.filter`.
+
+## get token
+
+https://github.com/settings/tokens/new
+
+Need `repo` and `notifications` scopes.
+
+## run
 
 ```bash
 $ npm i
