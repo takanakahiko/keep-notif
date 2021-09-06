@@ -24,4 +24,4 @@ $ node index.js
 
 あとから教えてもらったんですが、新しくORGに入る前にコイツラをOFFにすれば通知こないみたいです。チャンチャン。
 
-![img](真中らぁら.png)
+![GitHub の Setting 内にある Automatic watching の項目](真中らぁら.png)
