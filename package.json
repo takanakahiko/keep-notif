@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/takanakahiko/keep-notif#readme",
   "dependencies": {
-    "@octokit/rest": "^17.6.0"
+    "@octokit/rest": "^19.0.13"
   }
 }
